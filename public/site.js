@@ -1,9 +1,8 @@
 window.onload = function () {
-  const styleToggle = document.getElementById('style-toggle')
-  styleToggle.addEventListener('click',
-    function (event) {
-      event.preventDefault()
-      window.alert('Toggling dark and light mode not yet implemented.')
-    }
-  )
+  const button = document.querySelector("button");
+
+  button.addEventListener('click', function(){
+    var element = document.body;
+    element.classList.toggle("dark");
+  });
 }
