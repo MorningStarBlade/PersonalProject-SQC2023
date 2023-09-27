@@ -1,2 +1,5 @@
-# PersonalProject-SQC2023
-Book project for the Software Quality Control class of Fall 2023
+# The Horror Expert
+By: Anya Dinger
+This site introduces the novel The Horror Expert by Frank Long.
+
+[Render Site](https://personalproject-1rie.onrender.com)
