@@ -1,0 +1,28 @@
+{
+  "name": "personalproject-sqc2023",
+  "version": "1.0.0",
+  "description": "Book project for the Software Quality Control class of Fall 2023",
+  "main": "index.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "generate": "node tools/html-to-sql.js && psql -f ./docs/generated-schema.sql",
+    "test": "standard \"**/*.js\" && stylelint \"**/*.css\" && html-validate \"public/**/*.html\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+   "devDependencies": {
+    "html-validate": "^8.2.0",
+    "node-html-parser": "^6.1.5",
+    "standard": "^17.1.0",
+    "stylelint": "^15.10.2",
+    "stylelint-config-standard": "^34.0.0",
+    "svgoban": "^1.0.0"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
