@@ -15,11 +15,19 @@ body {
   border: 4px solid white;
 }
 
+.dark li a {
+  color: white;
+}
+
+.dark li a:hover{
+  color: lightblue;
+}
+
 nav ul {
   list-style-type: none;
   display: -webkit-box;
-  padding-left: 600px;
-  gap: 20px;
+  padding-left: 560px;
+  gap: 10px;
 }
 
 li a {
