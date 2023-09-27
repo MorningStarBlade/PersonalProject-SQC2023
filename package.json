@@ -14,7 +14,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-   "devDependencies": {
+  "devDependencies": {
     "html-validate": "^8.2.0",
     "node-html-parser": "^6.1.5",
     "standard": "^17.1.0",
