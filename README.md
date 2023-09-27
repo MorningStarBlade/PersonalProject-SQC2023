@@ -7,4 +7,4 @@ This site introduces the novel The Horror Expert by Frank Long.
 
 ER Diagrams
 -----------
-![ER Diagram](/docs/BookProjectDiagram.png "Diagram")
+![ER Diagram](/docs/BookProjectDiagramV2.drawio.png "Diagram")
