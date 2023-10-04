@@ -9,6 +9,7 @@ Data Source
 Items of Intrest
 ----------------
 + Chapters
++ Descriptions
 
 Proposed Layout
 ---------------
