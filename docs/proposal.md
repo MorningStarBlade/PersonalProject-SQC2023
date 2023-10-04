@@ -1,4 +1,4 @@
-The Novel of Horror Expertise
+The Horror Expert
 =============================
 This site introduces the novel *The Horror Expert* by Frank Long.
 
